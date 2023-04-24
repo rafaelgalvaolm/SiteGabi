@@ -1,0 +1,22 @@
+body
+{
+    background-color: #9fb6af;
+}
+
+.navbar-brand
+{
+    margin-right: 0;
+    padding: 0 1rem;
+}
+
+.navbar-nav li
+{
+    margin-top: 6%;
+}
+
+.navbar .navbar-nav .navbar-link 
+{
+    font-size: 1.1em;
+    padding: 0 1rem;
+    color: white;
+}
