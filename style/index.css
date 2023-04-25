@@ -39,7 +39,8 @@ body
     color: aliceblue;
 }
 
-.img1
+.imagem1
 {
-    background-image: url("../style/images/FotoGabi1.png");
+    background-image: url("../style/images/FotoGabi1.png") no-repeat center center fixed;
+    background-size: cover;
 }
