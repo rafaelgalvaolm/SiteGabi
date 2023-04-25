@@ -20,3 +20,26 @@ body
     padding: 0 1rem;
     color: white;
 }
+
+.intro
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    margin-left: 5%;
+    height: 30vh;
+
+}
+
+.frase h1
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+    color: aliceblue;
+}
+
+.img1
+{
+    background-image: url("../style/images/FotoGabi1.png");
+}
